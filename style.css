@@ -1,0 +1,10 @@
+input:required {
+  border-color: #800000;
+}
+#forme{
+	border: 1px solid black;
+	background-color: #F2F2F2;
+	height: 15.6vw;
+	padding: 3%;
+}
+
